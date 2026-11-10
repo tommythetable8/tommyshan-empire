@@ -1,0 +1,36 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size:5rem;
+	border-radius: 8px;
+	border: 0;
+	background:green;
+	color:orange;
+	cursor: pointer;
+}
+p{
+	color:chartreuse;
+	font-size:x-large;
+}
+h1{
+	color: crimson;
+	font-size: 4rem;
+
+}
+img{
+	width:  300px;
+}
+body{
+	text-align: centre;
+	 font-family: 'comic sans' ;
+	 background-color: mediumblue;
+	 color: limegreen;
+
+}
